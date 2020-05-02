@@ -1,4 +1,4 @@
-# Workflowr
+# "My Project"
 
 A [workflowr][] project.
 
